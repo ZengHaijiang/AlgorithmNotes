@@ -1,6 +1,6 @@
 package DataStructure;
 
-public class AddTwoNumbers {
+public class ListNode {
     /**
      * Definition for singly-linked list.
      * public class ListNode {
